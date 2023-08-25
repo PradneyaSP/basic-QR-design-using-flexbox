@@ -16,6 +16,6 @@ This is a simple design for QR code created by Pradneya.
 
 # Built With
 
--Semantic HTML5 markup
--CSS custom properties
--Flexbox
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
